@@ -6,3 +6,8 @@ var datanascimento
 document.write (typeof nome, '<br/>')
 document.write (typeof datanascimento,'<br/>')
 document.write (typeof eprofessor)
+
+const teste = "10"==10;
+
+document.write (typeof nome)
+
