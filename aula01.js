@@ -14,4 +14,4 @@ if (re < 50) {
 } else if (re >= 150 && re < 200) {
     alert("Foi bem na partida")
 } else 
-   alert("jogou muito")
+   
